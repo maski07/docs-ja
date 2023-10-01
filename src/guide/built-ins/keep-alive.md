@@ -8,7 +8,7 @@ import SwitchComponent from './keep-alive-demos/SwitchComponent.vue'
 
 ## 基本的な使い方 {#basic-usage}
 
-「コンポーネントの基礎」の章で、特別な要素 `<component>` を使用する、[動的コンポーネント](/guide/essentials/component-basics#dynamic-components)のための構文を導入しました:
+「コンポーネントの基礎」の章で、特別な要素 `<component>` を使用する、[動的コンポーネント](/guide/essentials/component-basics#dynamic-components)のための構文を紹介しました:
 
 ```vue-html
 <component :is="activeComponent" />
